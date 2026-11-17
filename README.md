@@ -58,7 +58,7 @@ The auditor calculates an objective **100-point posture score** divided between 
 ### 1. Clone the Repository & Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/code-nova-cybersecurity-task3.git
+[https://github.com/sandeshhalabhavi12-bot/cybersecurity.git](https://github.com/sandeshhalabhavi12-bot/cybersecurity.git)
 cd code-nova-cybersecurity-task3
 python3 -m venv venv
 source venv/bin/activate
