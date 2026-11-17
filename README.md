@@ -83,8 +83,11 @@ python3 security_auditor.py -u https://example.com -o sample_report.md
 
 ## Screenshots
 
-> **Note:** Replace the placeholder paths below with actual screenshots of your terminal run and rendered Markdown report prior to submission.
+### Terminal Execution
+![CLI Audit Execution](Screenshot%202026-11-17%20120341.png)
 
+### Generated Remediation Report
+![Markdown Audit Report](Screenshot%202026-11-17%20120413.png)
 ### Terminal Execution
 ![CLI Audit Execution](docs/screenshots/cli_audit.png)
 
